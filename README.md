@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [basic_c](https://github.com/Mr-Emerald-Wolf/basic_c)
 
-- 🌱 I’m currently learning **C, C++ ** and ** ReactJS.**
+- 🌱 I’m currently learning **C, C++** and **ReactJS.**
 
 - 💬 Ask me about **Bootstrap 4 and reactJS.**
 
