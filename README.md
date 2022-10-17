@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [basic_c](https://github.com/Mr-Emerald-Wolf/basic_c)
 
-- 🌱 I’m currently learning **C, C++** and **ReactJS.**
+- 🌱 I’m currently learning **ExpressJS++** and **ReactJS.**
 
-- 💬 Ask me about **Bootstrap 4 and reactJS.**
+- 💬 Ask me about **Tailwind and reactJS.**
 
 - 📫 How to reach me **shivamsharma2002@gmail.com**
 
