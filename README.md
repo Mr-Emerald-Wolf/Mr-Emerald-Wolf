@@ -1,11 +1,11 @@
 <h1 align="center">Hello World 👋, I'm Shivam Sharma</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🔭 I’m currently working on [basic_c](https://github.com/Mr-Emerald-Wolf/basic_c)
+- 🔭 I’m currently working on [brew_backend](https://github.com/Mr-Emerald-Wolf/brew_backend)
 
-- 🌱 I’m currently learning **ExpressJS** and **ReactJS.**
+- 🌱 I’m currently learning **Goroutines** and **NextJS.**
 
-- 💬 Ask me about **Tailwind and reactJS.**
+- 💬 Ask me about **Golang and reactJS.**
 
 - 📫 How to reach me **shivamsharma2002@gmail.com**
 
