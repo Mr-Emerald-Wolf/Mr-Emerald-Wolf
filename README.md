@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Goroutines** and **NextJS.**
 
-- 💬 Ask me about **Golang and reactJS.**
+- 💬 Ask me about **Golang and DEVOPS.**
 
 - 📫 How to reach me **shivamsharma2002@gmail.com**
 
